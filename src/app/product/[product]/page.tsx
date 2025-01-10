@@ -1,4 +1,4 @@
-'use Client'
+'use client'
 import Image from "next/image";
 
 export default async function Product({params}:{params:{product:string}}) {
